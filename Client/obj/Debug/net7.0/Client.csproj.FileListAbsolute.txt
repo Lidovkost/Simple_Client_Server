@@ -1,0 +1,15 @@
+D:\Sorting\ClientServer\Client\bin\Debug\net7.0\Client.exe
+D:\Sorting\ClientServer\Client\bin\Debug\net7.0\Client.deps.json
+D:\Sorting\ClientServer\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\Sorting\ClientServer\Client\bin\Debug\net7.0\Client.dll
+D:\Sorting\ClientServer\Client\bin\Debug\net7.0\Client.pdb
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.dll
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\refint\Client.dll
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.pdb
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\Sorting\ClientServer\Client\obj\Debug\net7.0\ref\Client.dll

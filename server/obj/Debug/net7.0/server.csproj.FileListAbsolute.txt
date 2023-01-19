@@ -1,0 +1,15 @@
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+D:\Sorting\ClientServer\server\bin\Debug\net7.0\server.exe
+D:\Sorting\ClientServer\server\bin\Debug\net7.0\server.deps.json
+D:\Sorting\ClientServer\server\bin\Debug\net7.0\server.runtimeconfig.json
+D:\Sorting\ClientServer\server\bin\Debug\net7.0\server.dll
+D:\Sorting\ClientServer\server\bin\Debug\net7.0\server.pdb
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.dll
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\refint\server.dll
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.pdb
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+D:\Sorting\ClientServer\server\obj\Debug\net7.0\ref\server.dll
